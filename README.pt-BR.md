@@ -105,7 +105,6 @@ Após o cadastro completo:
 ---
 
 # 🛠 Tecnologias Utilizadas
-
 - Python
 - Pandas
 - OpenPyXL
@@ -121,7 +120,34 @@ Após o cadastro completo:
 
 # 🏗 Arquitetura da Solução
 
-Portal Web ↓ Web Scraping ↓ Download de Arquivos ↓ Tratamento e Consolidação (Pandas) ↓ Validações de Negócio ↓ Integração Sistema Corporativo ↓ Validação Final ↓ Relatórios e Logs ↓ Envio Automático de E-mails
+# 🏗 Fluxo da Solução
+
+```mermaid
+flowchart LR
+
+A[Portal Web]
+--> B[Web Scraping]
+
+B --> C[Download de Arquivos]
+
+C --> D[Processamento de Dados com Pandas]
+
+D --> E[Padronização e Consolidação dos Dados]
+
+E --> F[Validação das Regras de Negócio]
+
+F --> G[Integração via SAP GUI Scripting]
+
+G --> H[Atualização do Sistema Corporativo]
+
+H --> I[Validação da Qualidade dos Registros]
+
+I --> J[Geração de Relatórios e Logs]
+
+J --> K[Automação de E-mails via Outlook]
+
+K --> L[Solicitação Concluída]
+``
 
 --- 
 
