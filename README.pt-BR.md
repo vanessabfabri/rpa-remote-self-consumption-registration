@@ -2,7 +2,7 @@
 
 🌐 Idioma:
 - 🇧🇷 Português
-- 🇺🇸 README.en.md[https://github.com/vanessabfabri/rpa-remote-self-consumption-registration/blob/main/README.en.md]
+- 🇺🇸 [Inglês](README.en.md)
 
 ---
 
