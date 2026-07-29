@@ -125,31 +125,27 @@ After successful registration:
 
 # 🏗 Solution Architecture
 
+# 🚀 End-to-End Process Automation
+
 ```mermaid
-flowchart LR
+flowchart TD
 
-A[Web Portal]
---> B[Web Scraping]
+A[Customer Request]
+--> B[Data Collection]
 
-B --> C[File Download]
+B --> C[Data Processing]
 
-C --> D[Pandas Processing]
+C --> D[Business Validation]
 
-D --> E[Data Standardization]
+D --> E[ERP Integration]
 
-E --> F[Business Rule Validation]
+E --> F[Automated Registration]
 
-F --> G[SAP GUI Scripting]
+F --> G[Reporting]
 
-G --> H[Corporate System Update]
+G --> H[Customer Notification]
 
-H --> I[Quality Validation]
-
-I --> J[Reports and Logs]
-
-J --> K[Outlook Email Automation]
-
-K --> L[Completed Request]
+H --> I[Completed Process]
 ```
 
 ---
