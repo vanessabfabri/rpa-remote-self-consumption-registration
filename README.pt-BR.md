@@ -123,29 +123,24 @@ Após o cadastro completo:
 ```mermaid
 flowchart LR
 
-A[Portal Web]
---> B[Web Scraping]
+A[Portal de Atendimento] --> B[Coleta Automática de Solicitações]
 
-B --> C[Download de Arquivos]
+B --> C[Download dos Arquivos] C --> D[Tratamento e Consolidação dos Dados]
 
-C --> D[Processamento de Dados com Pandas]
+D --> E[Validação das Regras de Negócio]
 
-D --> E[Padronização e Consolidação dos Dados]
+E --> F[Integração com Sistema Corporativo]
 
-E --> F[Validação das Regras de Negócio]
+F --> G[Cadastro do Rateio de Autoconsumo Remoto]
 
-F --> G[Integração via SAP GUI Scripting]
+G --> H[Validação Pós-Processamento]
 
-G --> H[Atualização do Sistema Corporativo]
+H --> I[Geração de Relatórios e Evidências]
 
-H --> I[Validação da Qualidade dos Registros]
+I --> J[Envio Automático de E-mails]
 
-I --> J[Geração de Relatórios e Logs]
-
-J --> K[Automação de E-mails via Outlook]
-
-K --> L[Solicitação Concluída]
-``
+J --> K[Processo Encerrado]
+```
 
 --- 
 
