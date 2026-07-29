@@ -125,39 +125,32 @@ After successful registration:
 
 # 🏗 Solution Architecture
 
-Web Portal
+```mermaid
+flowchart LR
 
-↓
+A[Web Portal]
+--> B[Web Scraping]
 
-Web Scraping
+B --> C[File Download]
 
-↓
+C --> D[Pandas Processing]
 
-File Download
+D --> E[Data Standardization]
 
-↓
+E --> F[Business Rule Validation]
 
-Data Processing & Consolidation (Pandas)
+F --> G[SAP GUI Scripting]
 
-↓
+G --> H[Corporate System Update]
 
-Business Rule Validation
+H --> I[Quality Validation]
 
-↓
+I --> J[Reports and Logs]
 
-Corporate System Integration
+J --> K[Outlook Email Automation]
 
-↓
-
-Final Validation
-
-↓
-
-Reports & Logs
-
-↓
-
-Automated Email Notifications
+K --> L[Completed Request]
+```
 
 ---
 
