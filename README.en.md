@@ -211,11 +211,6 @@ H --> I[Completed Process]
 - Continuous Improvement
 - Reporting and Monitoring
 
-```mermaid
-flowchart LR
-A[Test] --> B[OK]
-```
-
 ---
 
 # 📷 Project Images
