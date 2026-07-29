@@ -5,7 +5,7 @@ Enterprise RPA solution for automating Remote Self-Consumption registration requ
 ## Language
 
 - 🇺🇸 README.en.md
-- 🇧🇷 [PortuguêsBR.md
+- 🇧🇷 PortuguêsBR.md
 
 ## Highlights
 
