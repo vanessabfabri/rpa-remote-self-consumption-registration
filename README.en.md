@@ -2,9 +2,5 @@
 
 🌐 Language:
 - 🇺🇸 English
-- 🇧🇷 README.pt-BR.md
+- 🇧🇷 [Portuguese](README.pt-BR.md)
 
-<p align="right">
-🇺🇸 English |
-./README.pt-BR.md🇧🇷 Português</a>
-</p>
