@@ -220,3 +220,8 @@ H --> I[Completed Process]
 
 ```text
 assets/fluxo-rpa.png
+
+```mermaid
+flowchart LR
+A[Test] --> B[OK]
+```
