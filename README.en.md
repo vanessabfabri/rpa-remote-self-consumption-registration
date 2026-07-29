@@ -125,26 +125,16 @@ After successful registration:
 
 # 🏗 Solution Architecture
 
-# 🚀 End-to-End Process Automation
-
 ```mermaid
 flowchart TD
 
-A[Customer Request]
---> B[Data Collection]
-
+A[Customer Request] --> B[Data Collection]
 B --> C[Data Processing]
-
 C --> D[Business Validation]
-
 D --> E[ERP Integration]
-
 E --> F[Automated Registration]
-
 F --> G[Reporting]
-
 G --> H[Customer Notification]
-
 H --> I[Completed Process]
 ```
 
