@@ -120,8 +120,6 @@ Após o cadastro completo:
 
 # 🏗 Arquitetura da Solução
 
-# 🏗 Fluxo da Solução
-
 ```mermaid
 flowchart LR
 
