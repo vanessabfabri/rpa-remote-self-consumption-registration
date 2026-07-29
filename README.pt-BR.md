@@ -37,12 +37,10 @@ O fluxo inclui:
 
 # 📊 Resultados Obtidos 
 ## Indicadores do Projeto 
-<img width="1536" height="1024" alt="Quadro Resultados V2" src="https://github.com/user-attachments/assets/e33a68bd-db18-4ed9-91ac-ea08e315563f" />
-
 
 | Indicador | Resultado | 
 |------------|------------| 
-| Volume tratado em testes | 1.880 registros | 
+| Volume tratado em testes | 2.274 registros | 
 | Média diária | 117 registros | 
 | Redução de tempo | 55% | 
 | Tempo manual | ~3 minutos por registro | 
