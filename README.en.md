@@ -4,11 +4,7 @@
 - 🇺🇸 English
 - 🇧🇷 [Portuguese](README.pt-BR.md)
 
-<br>
-
 ---
-
-<br>
 
 # 📌 Project Overview
 
@@ -17,7 +13,6 @@ This project was designed to fully automate a high-volume operational process re
 The solution was developed in Python using RPA (Robotic Process Automation), Web Scraping, and ERP integration techniques, eliminating repetitive manual activities and significantly improving operational efficiency.
 
 The workflow includes:
-
 - Automatic request collection
 - Individual file download
 - Data processing and reconciliation
@@ -26,11 +21,7 @@ The workflow includes:
 - Report generation
 - Automated email communication
 
-<br>
-
 ---
-
-<br>
 
 # 🎯 Objectives
 
@@ -41,18 +32,11 @@ The workflow includes:
 - Create traceability through reports and logs
 - Free operational capacity for analytical activities
 
-<br>
-
 ---
-
-<br>
 
 # 📊 Results Achieved
 
 ## Project Metrics
-
-<br>
-
 | Metric | Result |
 |----------|----------|
 | Records processed during testing | 2,274 records |
@@ -64,11 +48,7 @@ The workflow includes:
 | Lead time reduction | 19 days → D+1 |
 | Operational capacity | Doubled |
 
-<br>
-
 ---
-
-<br>
 
 # 🏢 Business Context
 
@@ -78,81 +58,58 @@ Remote Self-Consumption is a Distributed Generation model in which the energy ge
 
 In this model, surplus energy produced by the generating installation is allocated among beneficiary consumer units according to allocation percentages defined by the customer.
 
-<br>
-
 ## Operational Process
 
 The process begins when a customer submits a request through a customer service portal.
 
 The request contains:
-
 - Generating consumer unit
 - Beneficiary consumer units
 - Allocation percentage assigned to each beneficiary
 
 After receiving the request, the information must be registered in the corporate system to ensure proper energy credit compensation.
 
-<br>
-
 ## Automated Business Rules
-
 The automation was developed considering multiple operational and regulatory validations.
 
 ### Allocation Distribution
 
 The system ensures that:
-
 - Each beneficiary receives a valid participation percentage.
 - The allocation is distributed among all registered consumer units.
 - The generating installation remains properly linked to all beneficiaries.
 - Beneficiary limits are respected.
 - Requests exceeding the operational limit for automatic processing are redirected for manual handling.
 
-<br>
-
 ### Existing Registration Updates
 
 Before creating a new allocation configuration, the system checks for existing registered beneficiaries.
 
 When identified:
-
 - Existing beneficiaries are removed.
 - The new allocation configuration is inserted.
 - The registration is saved again.
 
 This procedure prevents inconsistencies between previous and new allocation configurations.
 
-<br>
-
 ### Information Validation
 
 The bot verifies:
-
 - Presence of mandatory information.
 - Consistency between request data and corporate system records.
 - Availability of required files.
 - Validity of allocation percentages.
 - Process completion requirements.
 
-<br>
-
 After successful registration:
-
 - Operational activities are executed automatically.
 - The process is closed.
 - Evidence is recorded.
 - The customer receives an automatic completion notification.
 
-<br>
-
 ---
 
-<br>
-
 # 🛠 Technologies Used
-
-<br>
-
 - Python
 - Pandas
 - OpenPyXL
@@ -164,15 +121,9 @@ After successful registration:
 - CSV
 - Excel
 
-<br>
-
 ---
 
-<br>
-
 # 🏗 Solution Architecture
-
-<br>
 
 Web Portal
 
@@ -208,103 +159,68 @@ Reports & Logs
 
 Automated Email Notifications
 
-<br>
-
 ---
-
-<br>
 
 # ⚙️ Key Features
 
 ## Data Extraction
-
 - Automated portal access
 - Automatic file downloads
 - Request data consolidation
 
-<br>
-
 ## Data Processing
-
 - Excel file processing
 - CSV file processing
 - Data standardization
 - Cross-source data reconciliation
 
-<br>
-
 ## Corporate System Integration
-
 - Automated system navigation
 - Record creation
 - Data updates
 - Automatic process completion
 
-<br>
-
 ## Validation
-
 - Business rule validation
 - Consistency checks
 - Exception handling
 - Automatic retry mechanisms
 
-<br>
-
 ## Communication
-
 - Automated operational reports
 - Completion notifications
 - Error log generation
 
-<br>
-
 ---
-
-<br>
 
 # 🚀 Automation Impact
 
 ## Before
-
 - Fully manual process
 - Individual file downloads
 - High risk of rework
 - Significant operational dependency
 - Potential SLA delays
 
-<br>
-
 ## After
-
 - End-to-end automated execution
 - Significant processing time reduction
 - Process standardization
 - Increased operational reliability
 - Expanded capacity without team growth
 - Greater focus on analytical and strategic activities
-
-<br>
-
+  
 ---
 
-<br>
-
 # 🧠 Technical Challenges
-
 - **Legacy System Integration** – Automation developed using SAP GUI Scripting without API availability.
 - **Handling Locked Records** – Automatic retry mechanisms for temporarily unavailable records.
 - **Operational Resilience** – Processing designed to continue even when individual records encounter errors.
 - **Multi-Source Data Consolidation** – Integration of information from web portals, CSV files, Excel spreadsheets, and corporate systems.
 
-<br>
-
 ---
 
-<br>
-
 # 📈 Skills Demonstrated
-
 - Robotic Process Automation (RPA)
 - Python
 - Data Processing with Pandas
@@ -316,17 +232,12 @@ Automated Email Notifications
 - Continuous Improvement
 - Reporting and Monitoring
 
-<br>
-
 ---
-
-<br>
 
 # 📷 Project Images
 
 ### Automation Workflow
-
-Insert automation process flow image.
+[ALTERAR] Insert automation process flow image.
 
 ```text
 assets/fluxo-rpa.png
