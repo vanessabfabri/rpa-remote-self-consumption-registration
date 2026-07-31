@@ -222,4 +222,9 @@ H --> I[Completed Process]
 assets/fluxo-rpa.png
 ```
 
+---
+
+## ⚠️ Disclaimer
+Due to confidentiality and intellectual property considerations, the complete source code and business-specific details are not publicly available.
+This project is presented for demonstration purposes only, highlighting the solution architecture, technologies used, technical challenges addressed, and the results achieved.
 
