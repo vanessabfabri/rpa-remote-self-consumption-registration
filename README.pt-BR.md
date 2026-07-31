@@ -124,23 +124,14 @@ Após o cadastro completo:
 flowchart LR
 
 A[Portal de Atendimento] --> B[Coleta Automática de Solicitações]
-
 B --> C[Download dos Arquivos]
-
 C --> D[Tratamento e Consolidação dos Dados]
-
 D --> E[Validação das Regras de Negócio]
-
 E --> F[Integração com Sistema Corporativo]
-
 F --> G[Cadastro do Rateio de Autoconsumo Remoto]
-
 G --> H[Validação Pós-Processamento]
-
 H --> I[Geração de Relatórios e Evidências]
-
 I --> J[Envio Automático de E-mails]
-
 J --> K[Processo Encerrado]
 ```
 
