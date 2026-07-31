@@ -121,7 +121,7 @@ Após o cadastro completo:
 # 🏗 Arquitetura da Solução
 
 ```mermaid
-flowchart LR
+flowchart TD
 
 A[Portal de Atendimento] --> B[Coleta Automática de Solicitações]
 B --> C[Download dos Arquivos]
