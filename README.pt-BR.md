@@ -208,18 +208,12 @@ J --> K[Processo Encerrado]
 
 ---
 
-# 📷 Imagens do Projeto
-- Fluxo da Automação
-Inserir imagem do fluxo do processo.
-assets/fluxo-rpa.png
+# 📊 Dashboard de Monitoramento
+Para complementar a automação, foi desenvolvido um dashboard em Power BI para acompanhamento dos principais indicadores operacionais do processo.
+A solução permite monitorar volume de solicitações, produtividade, SLA, TMA e desempenho das tratativas, proporcionando maior visibilidade, rastreabilidade e suporte à tomada de decisão.
 
-- Arquitetura da Solução
-Inserir diagrama de arquitetura.
-assets/arquitetura-rpa.png
-
-- Dashboard de Acompanhamento
-Inserir dashboard com dados anonimizados.
-assets/dashboard.png
+*Exemplo do dashboard desenvolvido para monitoramento do processo automatizado:*
+assets/dashboard_pt.png
 
 ---
 
