@@ -18,3 +18,15 @@ Enterprise RPA solution for automating Remote Self-Consumption registration requ
 <p align="center">
   assets/dashboard.png
 </p>
+
+---
+
+## Author
+
+**Vanessa Batista Fabri**
+
+Data Analytics Portfolio Project
+
+📌 LinkedIn: [linkedin.com/in/vanessafabri](https://www.linkedin.com/in/vanessafabri/)
+
+📌 GitHub: [vanessabfabri](https://github.com/vanessabfabri)
