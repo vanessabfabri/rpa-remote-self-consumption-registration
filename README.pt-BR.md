@@ -125,7 +125,9 @@ flowchart LR
 
 A[Portal de Atendimento] --> B[Coleta Automática de Solicitações]
 
-B --> C[Download dos Arquivos] C --> D[Tratamento e Consolidação dos Dados]
+B --> C[Download dos Arquivos]
+
+C --> D[Tratamento e Consolidação dos Dados]
 
 D --> E[Validação das Regras de Negócio]
 
