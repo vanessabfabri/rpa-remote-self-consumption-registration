@@ -213,14 +213,12 @@ H --> I[Completed Process]
 
 ---
 
-# 📷 Project Images
+# 📊 Monitoring Dashboard
+To complement the automation, a Power BI dashboard was developed to track key operational performance indicators throughout the process.
+The solution provides visibility into request volumes, productivity, SLA compliance, average processing time (TAT), and overall workflow performance, supporting data-driven decision-making and operational monitoring.
 
-### Automation Workflow
-[ALTERAR] Insert automation process flow image.
-
-```text
-assets/fluxo-rpa.png
-```
+*Example of the dashboard developed to monitor the automated process:*
+assets/dashboard_en.png
 
 ---
 
