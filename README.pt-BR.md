@@ -234,3 +234,14 @@ assets/dashboard.png
 Por questões de confidencialidade e propriedade intelectual, o código-fonte completo e detalhes específicos de negócio não são disponibilizados publicamente.
 O projeto é apresentado com finalidade demonstrativa, evidenciando a arquitetura, tecnologias empregadas, desafios enfrentados e resultados obtidos.
 
+---
+
+## Autora
+
+**Vanessa Batista Fabri**
+
+Projeto de Portfólio em Análise de Dados
+
+📌 LinkedIn: [linkedin.com/in/vanessafabri](https://www.linkedin.com/in/vanessafabri/)
+
+📌 GitHub: [vanessabfabri](https://github.com/vanessabfabri)
