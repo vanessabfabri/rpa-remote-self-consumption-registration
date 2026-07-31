@@ -1,7 +1,11 @@
 # Remote Self-Consumption Registration RPA
-[🇺🇸 English](README.en.md) | [🇧🇷 Português](README.pt-BR.md) 
 
----
+## 🌎 Languages
+
+- 🇺🇸 [English](README.en.md)
+- 🇧🇷 [Portuguese](README.pt-BR.md)
+
+--- 
 
 # 📌 Project Overview
 
