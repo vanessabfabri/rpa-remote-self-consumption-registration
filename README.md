@@ -19,8 +19,6 @@ Enterprise RPA solution for automating Remote Self-Consumption registration requ
   assets/dashboard.png
 </p>
 
----
-
 ## Author
 
 **Vanessa Batista Fabri**
