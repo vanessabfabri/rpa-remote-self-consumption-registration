@@ -1,5 +1,5 @@
 # Remote Self-Consumption Registration RPA
-[🇺🇸 English](README.en.md) | [🇧🇷 Português](README.pt-BR.md) |
+[🇺🇸 English](README.en.md) | [🇧🇷 Português](README.pt-BR.md) 
 
 ---
 
