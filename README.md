@@ -1,6 +1,6 @@
 # Remote Self-Consumption Registration RPA
 
-[🇺🇸 English](README.en.md) | [🇧🇷 Português](README.pt-BR.md) | assets/results-rpa.png | assets/dashboard_en.png
+[🇺🇸 English](README.en.md) | [🇧🇷 Português](README.pt-BR.md)
 
 Enterprise RPA solution for automating Remote Self-Consumption registration requests.
 
