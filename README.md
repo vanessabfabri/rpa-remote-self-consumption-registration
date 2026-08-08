@@ -15,6 +15,7 @@ Enterprise RPA solution for automating Remote Self-Consumption registration requ
  ![Results](assets/results-rpa.png)
 
 ## Dashboard
+To complement the automation, a Power BI dashboard was developed to track key operational performance indicators throughout the process.
   ![Dashboard](assets/dashboard_en.png)
 
 ## Author
