@@ -213,7 +213,7 @@ Para complementar a automação, foi desenvolvido um dashboard em Power BI para 
 A solução permite monitorar volume de solicitações, produtividade, SLA, TMA e desempenho das tratativas, proporcionando maior visibilidade, rastreabilidade e suporte à tomada de decisão.
 
 *Exemplo do dashboard desenvolvido para monitoramento do processo automatizado:*
-assets/dashboard_pt.png
+ ![Dashboard](assets/dashboard_pt.png)
 
 ---
 
