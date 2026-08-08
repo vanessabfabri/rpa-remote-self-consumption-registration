@@ -215,7 +215,7 @@ H --> I[Completed Process]
 
 # 📊 Monitoring Dashboard
 To complement the automation, a Power BI dashboard was developed to track key operational performance indicators throughout the process.
-The solution provides visibility into request volumes, productivity, SLA compliance, average processing time (TAT), and overall workflow performance, supporting data-driven decision-making and operational monitoring.
+The solution provides visibility into request volumes, productivity, SLA compliance, average handling time (AHT), and overall workflow performance, supporting data-driven decision-making and operational monitoring.
 
   ![Dashboard](assets/dashboard_en.png)
 
