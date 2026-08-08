@@ -12,9 +12,7 @@ Enterprise RPA solution for automating Remote Self-Consumption registration requ
 - Automated reporting and notifications
 - End-to-end workflow automation
 
-<p align="center">
   ![Dashboard](assets/dashboard_en.png)
-</p>
 
 ## Author
 
